@@ -1,0 +1,8 @@
+domain\Coord.class
+domain\Wind.class
+domain\Clouds.class
+domain\Sys.class
+service\WeatherService.class
+domain\ActualWeather.class
+domain\Main.class
+domain\Sky.class
